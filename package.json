@@ -1,5 +1,5 @@
 {
-  "name": "react-native-skeleton-loader",
+  "name": "rn-skeleton-loading",
   "version": "1.0.0",
   "description": "I'm piecing together a detailed description for a \"react-native-skeleton-loader.\" The goal is to highlight this tool's simplicity and effectiveness in creating animated skeleton components for better user experience during content loading, aiming for a clear, engaging, and informative README entry.",
   "main": "index.js",
@@ -8,17 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bstkpnr/react-native-skeleton-loader.git"
+    "url": "git+https://github.com/bstkpnr/rn-skeleton-loading.git"
   },
   "keywords": [
     "skeleton",
     "react-native",
     "loader"
   ],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.76.0"
+  },
+  
   "author": "Beste Tokpınar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bstkpnr/react-native-skeleton-loader/issues"
+    "url": "https://github.com/bstkpnr/rn-skeleton-loading/issues"
   },
-  "homepage": "https://github.com/bstkpnr/react-native-skeleton-loader#readme"
+  "homepage": "https://github.com/bstkpnr/rn-skeleton-loading#readme"
 }
