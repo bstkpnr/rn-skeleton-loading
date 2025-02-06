@@ -1,6 +1,6 @@
 {
   "name": "rn-skeleton-loading",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "I'm piecing together a detailed description for a \"rn-skeleton-loading.\" The goal is to highlight this tool's simplicity and effectiveness in creating animated skeleton components for better user experience during content loading, aiming for a clear, engaging, and informative README entry.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   
   "author": "Beste Tokpınar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bstkpnr/rn-skeleton-loading/issues"
   },
