@@ -1,3 +1,10 @@
+
+## 🎬 Demo
+
+![rn-skeleton-loading demo](assets/skeleton.gif)
+
+
+
 # 🦴 rn-skeleton-loading  
 
 A **lightweight, customizable, and fast** skeleton loading component for React Native.  
